@@ -1,0 +1,15 @@
+WEB CODIAN
+
+In this repository, you will be going to find the stuff related how you can create social footer using
+HTML, CSS and Bootstrap. Footer is an very important element of your website that contais all the 
+important links and information of your website. This footer is useful for music websites or blogs
+through which they can connect more people.
+
+This code is free to use for anyone and anywhere. You can use this code anywhere you want to use in your
+website. Feel free to to use this.
+
+For video tutorial of this repository: 
+
+Fore more stuff like this visit our YouTube Channel
+
+WEB CODIAN: https://www.youtube.com/channel/UCvDfMTJRY5y-O35vQCVGWKw
